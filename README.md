@@ -71,6 +71,6 @@ task-manager/
 ## 👤 Author
 
 - **Your Name**  
-  GitHub: [@divya-153](https://github.com/divya-153)  
-  LinkedIn: [Divya Esaimurugan](https://www.linkedin.com/in/divya-esaimurugan-12984325b)
+  GitHub: [@Prabhz-04](https://github.com/Prabhz-04)  
+  LinkedIn: [Prabhakaran S](https://www.linkedin.com/in/karanprbha/)
 
